@@ -1,6 +1,6 @@
 # LLM-Web-Scraping
 
-**Python Version**:3.11
+**Python Version**:3.12
 
 <details>
   <summary><b> Streamlit Frontend</b></summary>
