@@ -23,7 +23,7 @@ The JSON response from the API is then displayed in the frontend.
 
 Create an Anaconda virtual environment with the following command:
 ```bash
-conda create -n streamlit python=3.11
+conda create -n streamlit python=3.12
 ```
 
 Activate the virtual environment with the following command:
@@ -74,7 +74,7 @@ LangChain's **create_extraction_chain** method is then used to extract the infor
 
 Create an Anaconda virtual environment with the following command:
 ```bash
-conda create -n backend python=3.11
+conda create -n backend python=3.12
 ```
 
 Activate the virtual environment with the following command:
@@ -138,7 +138,7 @@ The decoding of prompt response to a list of dictionaries is kept in a **try-exc
 
 Create an Anaconda virtual environment with the following command:
 ```bash
-conda create -n backend python=3.11
+conda create -n backend python=3.12
 ```
 
 Activate the virtual environment with the following command:
